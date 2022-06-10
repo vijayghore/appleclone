@@ -1,0 +1,57 @@
+.mac-container {
+    padding: 160px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.macbook-air-image {
+    width: 50vw;
+    display: block;
+    margin: 60px auto;
+    overflow: hidden;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.processor {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 14px;
+    margin-bottom: 32px;
+}
+
+.processor .processor-text {
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.processor .processor-image {
+    width: 53px;
+}
+
+p.availability {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 1.1;
+    color: rgb(135, 134, 140);
+    margin-bottom: 19px;
+}
+
+.description-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 10px 0px;
+}

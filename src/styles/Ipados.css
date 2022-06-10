@@ -1,0 +1,24 @@
+.ipados-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 160px 0px 0px;
+    background-color: #f5f5f7;
+    overflow: hidden;
+}
+
+.ipados-container-image {
+    width: 170vw;
+    margin-top: -120px;
+    margin-bottom: 25px;
+    overflow: hidden;
+}
+
+.ipados-details {
+    margin-top: -63px;
+    margin-bottom: 18px;
+    font-size: 24px;
+    line-height: 1.333;
+    text-align: center;
+}

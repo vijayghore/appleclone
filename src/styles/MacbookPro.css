@@ -1,0 +1,48 @@
+.macbookpro-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: black;
+    color: white;
+    padding: 160px 0px;
+}
+
+.macbookpro-container-image {
+    padding-top: 25px;
+    width: 100vw;
+}
+
+.margin-up {
+    margin-top: -130px;
+}
+
+.color-border {
+    border: 1px solid;
+    border-image-slice: 3;
+    border-image-source: linear-gradient(
+        135deg,
+        rgba(239, 255, 9, 1) 0%,
+        rgba(218, 124, 63, 1) 30%,
+        rgba(255, 0, 0, 1) 65%,
+        rgba(233, 0, 255, 1) 100%
+    );
+}
+
+.btn-dark {
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    margin: 0px 10px;
+    margin-top: 15px;
+    padding: 12px 22px;
+    border: 2px solid white;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.btn-dark:hover {
+    background-color: white;
+    color: black;
+}
