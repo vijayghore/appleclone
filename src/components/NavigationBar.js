@@ -7,7 +7,7 @@ const NavigationBar = () => {
             <div className="nav">
                 <ul className="nav-list">
                     <li className="nav-item nav-logo">
-                        <i class="fa-brands fa-apple"></i>
+                        <i className="fa-brands fa-apple"></i>
                     </li>
                     <li className="nav-item">Store</li>
                     <li className="nav-item">Mac</li>
@@ -20,10 +20,10 @@ const NavigationBar = () => {
                     <li className="nav-item">Accessories</li>
                     <li className="nav-item">Support</li>
                     <li className="nav-item">
-                        <i class="fa-solid fa-magnifying-glass"></i>
+                        <i className="fa-solid fa-magnifying-glass"></i>
                     </li>
                     <li className="nav-item">
-                        <i class="fa-solid fa-bag-shopping"></i>
+                        <i className="fa-solid fa-bag-shopping"></i>
                     </li>
                 </ul>
             </div>

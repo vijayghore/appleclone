@@ -11,7 +11,7 @@ const HeroSection = () => {
 
             <div className="hero-content">
                 <div className="hero-content-heading">
-                    <i class="fa-brands fa-apple"></i>WWDC22
+                    <i className="fa-brands fa-apple"></i>WWDC22
                 </div>
                 <div className="hero-content-info">
                     <p>Introducing the all-new MacBook Air and</p>
